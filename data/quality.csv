@@ -1,0 +1,131 @@
+City or Locality,Air Quality Index,Health Impact
+"Delhi, India",406,Hazardous
+"Kolkata, India",267,Very unhealthy
+"Lahore, Pakistan",247,Very unhealthy
+"Dhaka, Bangladesh",226,Very unhealthy
+"Kuwait City, Kuwait",186,Unhealthy
+"Hanoi, Vietnam",173,Unhealthy
+"Tashkent, Uzbekistan",164,Unhealthy
+"Mumbai, India",162,Unhealthy
+"Baghdad, Iraq",160,Unhealthy
+"Riyadh, Saudi Arabia",155,Unhealthy
+"Bishkek, Kyrgyzstan",154,Unhealthy
+"Doha, Qatar",153,Unhealthy
+"Manila, Philippines",152,Unhealthy
+"Tehran, Iran",149,Unhealthy for sensitive groups
+"Manama, Bahrain",147,Unhealthy for sensitive groups
+"Karachi, Pakistan",129,Unhealthy for sensitive groups
+"Almaty, Kazakhstan",128,Unhealthy for sensitive groups
+"Ulaanbaatar, Mongolia",127,Unhealthy for sensitive groups
+"Baku, Azerbaijan",117,Unhealthy for sensitive groups
+"Kathmandu, Nepal",108,Unhealthy for sensitive groups
+"Sarajevo, Bosnia Herzegovina",107,Unhealthy for sensitive groups
+"Chongqing, China",102,Unhealthy for sensitive groups
+"Busan, South Korea",90,Moderate
+"Belgrade, Serbia",89,Moderate
+"Wuhan, China",88,Moderate
+"Shanghai, China",88,Moderate
+"Batam, Indonesia",87,Moderate
+"Lima, Peru",87,Moderate
+"Ho Chi Minh City, Vietnam",87,Moderate
+"Accra, Ghana",86,Moderate
+"Kampala, Uganda",80,Moderate
+"Sofia, Bulgaria",80,Moderate
+"Skopje, North Macedonia",79,Moderate
+"Chengdu, China",79,Moderate
+"Beijing, China",79,Moderate
+"Tokyo, Japan",79,Moderate
+"Milan, Italy",78,Moderate
+"Cairo, Egypt",77,Moderate
+"Ljubljana, Slovenia",77,Moderate
+"Sao Paulo, Brazil",75,Moderate
+"Seoul, South Korea",73,Moderate
+"Mexico City, Mexico",71,Moderate
+"Los Angeles, USA",69,Moderate
+"Bangkok, Thailand",69,Moderate
+"Osaka, Japan",68,Moderate
+"Dubai, United Arab Emirates",68,Moderate
+"Medan, Indonesia",66,Moderate
+"Addis Ababa, Ethiopia",66,Moderate
+"Tel Aviv-Yafo, Israel",66,Moderate
+"Munich, Germany",65,Moderate
+"Phnom Penh, Cambodia",64,Moderate
+"Istanbul, Turkey",64,Moderate
+"Nairobi, Kenya",64,Moderate
+"Hangzhou, China",64,Moderate
+"Portland, USA",64,Moderate
+"Pristina, Kosovo",63,Moderate
+"Zagreb, Croatia",63,Moderate
+"Kraków, Poland",63,Moderate
+"Bucharest, Romania",63,Moderate
+"Yangon, Myanmar",61,Moderate
+"Singapore, Singapore",61,Moderate
+"Santiago, Chile",60,Moderate
+"Chiang Mai, Thailand",60,Moderate
+"Budapest, Hungary",58,Moderate
+"Barcelona, Spain",58,Moderate
+"Madrid, Spain",58,Moderate
+"Guangzhou, China",58,Moderate
+"Paris, France",57,Moderate
+"Warsaw, Poland",57,Moderate
+"Kaohsiung, Taiwan",57,Moderate
+"Kyoto, Japan",57,Moderate
+"Kinshasa, Democratic Republic of the Congo",56,Moderate
+"Houston, USA",56,Moderate
+"Jerusalem, Israel",55,Moderate
+"Bern, Switzerland",55,Moderate
+"Wrocław, Poland",55,Moderate
+"Shenzhen, China",55,Moderate
+"Denver, USA",55,Moderate
+"Incheon, South Korea",55,Moderate
+"Dakar, Senegal",53,Moderate
+"Bratislava, Slovakia",53,Moderate
+"Kobe, Japan",52,Moderate
+"Johannesburg, South Africa",50,Good
+"Taipei, Taiwan",50,Good
+"Vienna, Austria",50,Good
+"Montreal, Canada",50,Good
+"Kyiv, Ukraine",48,Good
+"Amsterdam, Netherlands",47,Good
+"Minneapolis, USA",46,Good
+"Athens, Greece",45,Good
+"Kuala Lumpur, Malaysia",44,Good
+"Jakarta, Indonesia",44,Good
+"Rotterdam, Netherlands",42,Good
+"Kabul, Afghanistan",39,Good
+"Algiers, Algeria",39,Good
+"Prague, Czech Republic",39,Good
+"Berlin, Germany",38,Good
+"Sydney, Australia",37,Good
+"Chicago, USA",35,Good
+"Lisbon, Portugal",33,Good
+"Dublin, Ireland",33,Good
+"Bogota, Colombia",33,Good
+"London, United Kingdom",33,Good
+"Rome, Italy",32,Good
+"Seattle, USA",32,Good
+"Nice, France",31,Good
+"Brussels, Belgium",29,Good
+"Krasnoyarsk, Russia",28,Good
+"Lyon, France",28,Good
+"Moscow, Russia",28,Good
+"Salt Lake City, USA",27,Good
+"Copenhagen, Denmark",26,Good
+"Helsinki, Finland",25,Good
+"Vancouver, Canada",24,Good
+"Detroit, USA",24,Good
+"Washington D.C., USA",24,Good
+"New York, USA",23,Good
+"Birmingham, United Kingdom",21,Good
+"Stockholm, Sweden",21,Good
+"Hong Kong, Hong Kong SAR",21,Good
+"Auckland, New Zealand",20,Good
+"Canberra, Australia",19,Good
+"Kuching, Malaysia",16,Good
+"Toronto, Canada",16,Good
+"San Francisco, USA",15,Good
+"Melbourne, Australia",14,Good
+"Oslo, Norway",12,Good
+"Melbourne, Australia",14,Good
+"Oslo, Norway",12,Good
+"Melbourne, Australia",3,Good
